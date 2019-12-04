@@ -1,4 +1,4 @@
-#General information
+General information
 HourBoostr and SingleBoostr are two applications developed to idle games on your Steam accounts. The two programs work differently - and depending on how you to idle, you may want to pick one over the other. Neither applications require you to have the game you want to boost installed, but you do need to own the game in your library.
 
 HourBoostr
